@@ -18,8 +18,15 @@ Complex Complex::operator+(Complex a)
     t.Imaginary = Imaginary + a.Imaginary;
     return t;
 }
+Complex Complex::add(Complex a)
+{
+    Complex t;
+    t.Real = Real + a.Real;
+    t.Imaginary = Imaginary + a.Imaginary;
+    return t;
+}
 void Complex::Print()
 {
-    cout << Real << endl;
-    cout << Imaginary << endl;
+    cout << Real << " + ";
+    cout << Imaginary << "i" << endl;
 }

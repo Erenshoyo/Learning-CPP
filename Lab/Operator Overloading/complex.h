@@ -6,6 +6,7 @@ public:
     Complex();
     Complex(double, double);
     Complex operator+(Complex);
+    Complex add(Complex);
     void Print();
 
 private:

@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1753545030 source:d:\code related\c++\codeblocks\lab-06(student)\sortedtype.cpp
+	"sortedtype.h"
+	<iostream>
+
+1753545100 d:\code related\c++\codeblocks\lab-06(student)\sortedtype.h
+
+1753545060 source:d:\code related\c++\codeblocks\lab-06(student)\student.cpp
+	"student.h"
+	<iostream>
+
+1753545134 d:\code related\c++\codeblocks\lab-06(student)\student.h
+	<string>
+
+1753545336 source:d:\code related\c++\codeblocks\lab-06(student)\main.cpp
+	<iostream>
+	"sortedtype.cpp"
+	"student.h"
+
+1753545030 d:\code related\c++\codeblocks\lab-06(student)\sortedtype.cpp
+	"sortedtype.h"
+	<iostream>
+

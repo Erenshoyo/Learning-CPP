@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1752930327 source:d:\code related\c++\codeblocks\mid-practice\unsortedtype.cpp
+	"UnsortedType.h"
+
+1752930232 d:\code related\c++\codeblocks\mid-practice\unsortedtype.h
+
+1752936475 source:d:\code related\c++\codeblocks\mid-practice\studentinfo.cpp
+	"StudentInfo.h"
+
+1752936320 d:\code related\c++\codeblocks\mid-practice\studentinfo.h
+	<iostream>
+	<string>
+
+1753546398 source:d:\code related\c++\codeblocks\mid-practice\main.cpp
+	<iostream>
+	"unsortedType.cpp"
+	"StudentInfo.h"
+
+1752930327 d:\code related\c++\codeblocks\mid-practice\unsortedtype.cpp
+	"UnsortedType.h"
+
+1752936475 d:\code related\c++\codeblocks\mid-practice\studentinfo.cpp
+	"StudentInfo.h"
+

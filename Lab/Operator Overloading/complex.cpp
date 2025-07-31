@@ -27,6 +27,6 @@ Complex Complex::add(Complex a)
 }
 void Complex::Print()
 {
-    cout << Real << " + ";
+    cout << Real << " +  ";
     cout << Imaginary << "i" << endl;
 }

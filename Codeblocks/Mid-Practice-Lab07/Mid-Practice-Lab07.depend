@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1753541156 source:d:\code related\c++\codeblocks\mid-practice-lab07\sortedtype.cpp
+	"sortedtype.h"
+	<iostream>
+
+1753541131 d:\code related\c++\codeblocks\mid-practice-lab07\sortedtype.h
+
+1753542612 source:d:\code related\c++\codeblocks\mid-practice-lab07\timestamp.cpp
+	"timestamp.h"
+
+1753542742 d:\code related\c++\codeblocks\mid-practice-lab07\timestamp.h
+	<iostream>
+

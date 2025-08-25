@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1755876472 source:d:\code related\c++\codeblocks\assignment\binary search tree\task-9\binarysearchtree.cpp
+	"binarysearchtree.h"
+	"quetype.cpp"
+	<iostream>
+
+1755876486 d:\code related\c++\codeblocks\assignment\binary search tree\task-9\binarysearchtree.h
+	"quetype.h"
+
+1755876508 d:\code related\c++\codeblocks\assignment\binary search tree\task-9\quetype.h
+
+1755876498 d:\code related\c++\codeblocks\assignment\binary search tree\task-9\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1755876498 source:d:\code related\c++\codeblocks\assignment\binary search tree\task-9\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1755879259 source:d:\code related\c++\codeblocks\assignment\binary search tree\task-9\main.cpp
+	<iostream>
+	"binarysearchtree.cpp"
+
+1755876472 d:\code related\c++\codeblocks\assignment\binary search tree\task-9\binarysearchtree.cpp
+	"binarysearchtree.h"
+	"quetype.cpp"
+	<iostream>
+

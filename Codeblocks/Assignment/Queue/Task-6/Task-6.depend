@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1755581784 source:d:\code related\c++\codeblocks\assignment\queue\task-6\quetype.cpp
+	"quetype.h"
+
+1755581768 d:\code related\c++\codeblocks\assignment\queue\task-6\quetype.h
+
+1755584058 source:d:\code related\c++\codeblocks\assignment\queue\task-6\main.cpp
+	<iostream>
+	"QueType.cpp"
+
+1755581784 d:\code related\c++\codeblocks\assignment\queue\task-6\quetype.cpp
+	"quetype.h"
+

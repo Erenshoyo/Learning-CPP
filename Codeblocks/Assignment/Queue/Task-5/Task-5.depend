@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1755539629 source:d:\code related\c++\codeblocks\assignment\queue\task-5\main.cpp
+	<iostream>
+	"QueStacks.h"
+
+1755540049 d:\code related\c++\codeblocks\assignment\queue\task-5\questacks.h
+	"StackType.cpp"
+
+1755539407 source:d:\code related\c++\codeblocks\assignment\queue\task-5\questacks.cpp
+	<iostream>
+	"QueStacks.h"
+
+1755538592 source:d:\code related\c++\codeblocks\assignment\queue\task-5\stacktype.cpp
+	<iostream>
+	"stacktype.h"
+
+1755538593 d:\code related\c++\codeblocks\assignment\queue\task-5\stacktype.h
+
+1755538592 d:\code related\c++\codeblocks\assignment\queue\task-5\stacktype.cpp
+	<iostream>
+	"stacktype.h"
+

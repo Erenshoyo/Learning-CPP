@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1755870354 source:d:\code related\c++\codeblocks\assignment\stack\task-1\task-1(revised)\stacktype.cpp
+	"StackType.h"
+
+1755870354 d:\code related\c++\codeblocks\assignment\stack\task-1\task-1(revised)\stacktype.h
+
+1755875578 source:d:\code related\c++\codeblocks\assignment\stack\task-1\task-1(revised)\main.cpp
+	<iostream>
+	<string>
+	"StackType.cpp"
+
+1755870354 d:\code related\c++\codeblocks\assignment\stack\task-1\task-1(revised)\stacktype.cpp
+	"StackType.h"
+
